@@ -26,5 +26,11 @@ body{
     border: 5px solid black;
     text-align: center;
     color: var(--roxo);
+    border-radius: 20px;
+    margin-left: 10px;
 }
 
+.grid_div:hover{
+    background-color: antiquewhite;
+
+}
